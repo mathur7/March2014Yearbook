@@ -113,10 +113,11 @@
 }
 
 
-#skills {
+#skills ul {
 	list-style-type: none;
 	display: inline;
 }
+
 
 #students {
 	list-style-type: none;
