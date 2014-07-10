@@ -159,7 +159,7 @@ Student.create(name:"Shanna Hutchinson",
 	 project3:"",
 	 photo:"WDI_bw_Shanna.jpg")
 
-Student.create(name:"NO STUFF",
+Student.create(name:"Blair Cuny",
 	 bio:"",
 	 linkedin:"", 
 	 website:"",
@@ -168,7 +168,7 @@ Student.create(name:"NO STUFF",
 	 project3:"",
 	 photo:"WDI_bw_Blair.jpg")
 
-Student.create(name:"NO STUFF",
+Student.create(name:"Jade Applegate",
 	 bio:"",
 	 linkedin:"", 
 	 website:"",
@@ -177,7 +177,7 @@ Student.create(name:"NO STUFF",
 	 project3:"",
 	 photo:"WDI_bw_Jade.jpg")
 
-Student.create(name:"NO STUFF",
+Student.create(name:"Rahul Khanna",
 	 bio:"I am creative, energetic, and a problem solver.  I joined GA because I wanted to learn how to build great products.  Previously, I started my own social media company (Staance.com) and worked in the entertainment industry at Warner Bros.",
 	 linkedin:"http://www.linkedin.com/in/sociallyRK", 
 	 website:"http://www.sociallyrk.com/",
@@ -187,7 +187,7 @@ Student.create(name:"NO STUFF",
 	 project3:"",
 	 photo:"WDI_bw_Rahul.jpg")
 
-Student.create(name:"NO STUFF",
+Student.create(name:"Randy Carlisle",
 	 bio:"",
 	 linkedin:"", 
 	 website:"",
@@ -196,7 +196,7 @@ Student.create(name:"NO STUFF",
 	 project3:"",
 	 photo:"WDI_bw_Randy.jpg")
 
-Student.create(name:"NO STUFF",
+Student.create(name:"Antoine Catacutan",
 	 bio:"",
 	 linkedin:"", 
 	 website:"",
@@ -205,7 +205,7 @@ Student.create(name:"NO STUFF",
 	 project3:"",
 	 photo:"WDI_bw_Antoine.jpg")
 
-Student.create(name:"NO STUFF",
+Student.create(name:"Shaker Alghaithi",
 	 bio:"",
 	 linkedin:"", 
 	 website:"",
@@ -214,7 +214,7 @@ Student.create(name:"NO STUFF",
 	 project3:"",
 	 photo:"WDI_bw_Shaker.jpg")
 
-Student.create(name:"NO STUFF",
+Student.create(name:"Matt Flanagan",
 	 bio:"",
 	 linkedin:"", 
 	 website:"",
@@ -224,7 +224,7 @@ Student.create(name:"NO STUFF",
 	 photo:"WDI_bw_Matt.jpg")
 
 Student.create(name:"Jozef Woroniecki",
-	bio:"Ran a non -profit for sustainability and taught computer literacy to at risk and underserved.  Was a chef and a scientist.....I have a huge curiosity, so once I am interested in something I pursue it to the end.",
+	bio:"Ran a non-profit for sustainability and taught computer literacy to at risk and underserved.  Was a chef and a scientist.....I have a huge curiosity, so once I am interested in something I pursue it to the end.",
 	github:"https://github.com/HydraJax?tab=repositories",
 	linkedin:"https://www.linkedin.com/profile/view?id=79932398&trk=nav_responsive_tab_profile",
 	website:"http://jozefwor.tumblr.com/",
