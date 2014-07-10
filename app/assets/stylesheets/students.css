@@ -29,20 +29,28 @@
 	}
 
 	h2 {
-		font-family: 'Track';
+		font-family: 'Hind';
 		text-align: center;
 	}
 
 	h3 {
-		font-family: 'Track';
+		font-family: 'Hind';
 	}
 
 	h4 {
-		font-family: 'Track';
+		font-family: 'Hind';
 	}
 
 	p {
 		margin:1em 0;
+	}
+
+	#kittens h3 {
+		margin-left: 3%;
+	}
+
+	#projects h3 {
+		margin-left: 3%;
 	}
 
 	.parallax-image-wrapper {
@@ -132,12 +140,8 @@
 	}
 
 	#done {
-		height: 140%;
+		height: 120%;
 		/*height: 100%;*/
-	}
-
-	#projects h3 {
-		margin-left: 0 !important;
 	}
 
 	#projects {
@@ -146,6 +150,7 @@
 
 	#projects .row {
 		margin-bottom: 5%;
+		margin-top: 5%;
 		margin-left: 15%;
 		margin-right: 15%;
 	}
