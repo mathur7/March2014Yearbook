@@ -225,7 +225,7 @@ Student.create(name:"Matt Flanagan",
 	 photo:"WDI_bw_Matt.jpg")
 
 Student.create(name:"Jozef Woroniecki",
-	bio:"Ran a non -profit for sustainability and taught computer literacy to at risk and underserved.  Was a chef and a scientist.....I have a huge curiosity, so once I am interested in something I pursue it to the end.",
+	bio:"Ran a non-profit for sustainability and taught computer literacy to at risk and underserved.  Was a chef and a scientist.....I have a huge curiosity, so once I am interested in something I pursue it to the end.",
 	github:"https://github.com/HydraJax?tab=repositories",
 	linkedin:"https://www.linkedin.com/profile/view?id=79932398&trk=nav_responsive_tab_profile",
 	website:"http://jozefwor.tumblr.com/",
