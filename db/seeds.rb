@@ -221,15 +221,6 @@ Student.create(name:"NO STUFF",
 	 project1:"",
 	 project2:"",
 	 project3:"",
-	 photo:"WDI_bw_Tim.jpg")
-
-Student.create(name:"NO STUFF",
-	 bio:"",
-	 linkedin:"", 
-	 website:"",
-	 project1:"",
-	 project2:"",
-	 project3:"",
 	 photo:"WDI_bw_Matt.jpg")
 
 Student.create(name:"Jozef Woroniecki",
