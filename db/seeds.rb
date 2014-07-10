@@ -159,7 +159,7 @@ Student.create(name:"Shanna Hutchinson",
 	 project3:"",
 	 photo:"WDI_bw_Shanna.jpg")
 
-Student.create(name:"NO STUFF",
+Student.create(name:"Blair Cuny",
 	 bio:"",
 	 linkedin:"", 
 	 website:"",
@@ -168,7 +168,7 @@ Student.create(name:"NO STUFF",
 	 project3:"",
 	 photo:"WDI_bw_Blair.jpg")
 
-Student.create(name:"NO STUFF",
+Student.create(name:"Jade Applegate",
 	 bio:"",
 	 linkedin:"", 
 	 website:"",
@@ -177,7 +177,7 @@ Student.create(name:"NO STUFF",
 	 project3:"",
 	 photo:"WDI_bw_Jade.jpg")
 
-Student.create(name:"NO STUFF",
+Student.create(name:"Rahul Khanna",
 	 bio:"I am creative, energetic, and a problem solver.  I joined GA because I wanted to learn how to build great products.  Previously, I started my own social media company (Staance.com) and worked in the entertainment industry at Warner Bros.",
 	 linkedin:"http://www.linkedin.com/in/sociallyRK", 
 	 website:"http://www.sociallyrk.com/",
@@ -187,7 +187,7 @@ Student.create(name:"NO STUFF",
 	 project3:"",
 	 photo:"WDI_bw_Rahul.jpg")
 
-Student.create(name:"NO STUFF",
+Student.create(name:"Randy Carlisle",
 	 bio:"",
 	 linkedin:"", 
 	 website:"",
@@ -196,7 +196,7 @@ Student.create(name:"NO STUFF",
 	 project3:"",
 	 photo:"WDI_bw_Randy.jpg")
 
-Student.create(name:"NO STUFF",
+Student.create(name:"Antoine Catacutan",
 	 bio:"",
 	 linkedin:"", 
 	 website:"",
@@ -205,7 +205,7 @@ Student.create(name:"NO STUFF",
 	 project3:"",
 	 photo:"WDI_bw_Antoine.jpg")
 
-Student.create(name:"NO STUFF",
+Student.create(name:"Shaker Alghaithi",
 	 bio:"",
 	 linkedin:"", 
 	 website:"",
@@ -214,16 +214,8 @@ Student.create(name:"NO STUFF",
 	 project3:"",
 	 photo:"WDI_bw_Shaker.jpg")
 
-Student.create(name:"NO STUFF",
-	 bio:"",
-	 linkedin:"", 
-	 website:"",
-	 project1:"",
-	 project2:"",
-	 project3:"",
-	 photo:"WDI_bw_Tim.jpg")
 
-Student.create(name:"NO STUFF",
+Student.create(name:"Matt Flanagan",
 	 bio:"",
 	 linkedin:"", 
 	 website:"",
