@@ -49,6 +49,10 @@
 		margin-left: 3%;
 	}
 
+	#grads h4 {
+		margin-left: 3%;
+	}
+
 	#projects h3 {
 		margin-left: 3%;
 	}
@@ -129,6 +133,11 @@
 		-webkit-box-sizing:border-box;
 		-moz-box-sizing:border-box;
 		box-sizing:border-box;
+	}
+
+	#navbar_text {
+		font-size: 20px;
+		font-weight: bold;
 	}
 
 	.content-full {
