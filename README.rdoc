@@ -6,9 +6,9 @@ Site created by Taylor Chiu, Luke Drohan (github.com/ldrohan) and David Korsunsk
 * Ruby version 4.1.1
 
 * System dependencies
-  We added parallax scrolling with Skrollr: https://github.com/reed/skrollr-rails
-  Jquery
-  PostgreSQL database
+  * We added parallax scrolling with Skrollr: https://github.com/reed/skrollr-rails
+  * Jquery
+  * PostgreSQL database
   
 * Deployed to heroku at http://wdimarch2014.herokuapp.com/
 
