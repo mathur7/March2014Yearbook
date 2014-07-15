@@ -143,7 +143,7 @@ Student.create(name:"Ami Mathur",
 	 bio:"I started my career in television production in 2006. After I moved to San Francisco from Mumbai in 2011, I pursued my passion for photography full-time .  I came to GA to learn something new and expand my skill set.",
 	 github:"https://github.com/mathur7",
 	 linkedin:"http://www.linkedin.com/pub/ami-mathur/6/9a7/314", 
-	 website:"http://popups-app.herokuapp.com/",
+	 website:"http://mathur7.github.io/"
 	 project1:"",
 	 project2:"",
 	 project3:"",
